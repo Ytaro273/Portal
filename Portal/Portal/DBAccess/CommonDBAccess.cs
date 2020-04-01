@@ -22,7 +22,11 @@ namespace Portal.DBAccess
         /// <returns>生成した文字列</returns>
         public string MakeAccessString()
         {
-            XElement xml = XElement.Load(@"D:\録音\test.xml");
+            string appPath = System.Reflection.Assembly.GetExecutingAssembly().Location;
+
+            appPath = appPath.Replace("Portal.exe", "..\\..\\..\\test.xml");
+
+            XElement xml = XElement.Load(appPath);
 
             IEnumerable<XElement> infos = from item in xml.Elements("ユーザー")
                                           select item;
