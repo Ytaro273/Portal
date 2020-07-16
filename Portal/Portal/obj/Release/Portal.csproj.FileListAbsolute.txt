@@ -70,7 +70,6 @@ C:\Users\kazuki\Desktop\github\Portal\Portal\bin\Release\System.Text.Encodings.W
 C:\Users\kazuki\Desktop\github\Portal\Portal\bin\Release\System.Text.Json.xml
 C:\Users\kazuki\Desktop\github\Portal\Portal\bin\Release\System.Threading.Tasks.Extensions.xml
 C:\Users\kazuki\Desktop\github\Portal\Portal\bin\Release\System.ValueTuple.xml
-C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.csprojAssemblyReference.cache
 C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.PortalForm.MailDestinationForm.resources
 C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.PortalForm.MailCreateForm.resources
 C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.PortalForm.ScheduleAddForm.resources
@@ -86,3 +85,4 @@ C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.csproj.GenerateR
 C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.csproj.CopyComplete
 C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.exe
 C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.pdb
+C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.csprojAssemblyReference.cache
