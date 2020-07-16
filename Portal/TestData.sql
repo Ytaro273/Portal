@@ -32,7 +32,7 @@ insert into メールテーブル values ('mmm', 'aiueo', '来週の会議の件', '遅刻厳禁')
 /*　勤怠テーブル */
 create table 勤怠テーブル (ユーザーid varchar(20), 勤務開始時間 timestamp, 勤務終了時間 timestamp, 休憩時間 numeric, 更新日時 timestamp not null default current_timestamp, foreign key (ユーザーid) references ユーザーマスタ (ユーザーid));
 
-insert into 勤怠テーブル values ('aiueo', '2019-02-02 09:00:00', '2019-02-02 17:45:00', 45); 
+insert into 勤怠テーブル values ('aiueo', '2020-02-02 09:00:00', '2020-02-02 17:45:00', 45); 
 
 
 

@@ -85,4 +85,3 @@ C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.csproj.GenerateR
 C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.csproj.CopyComplete
 C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.exe
 C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.pdb
-C:\Users\kazuki\Desktop\github\Portal\Portal\obj\Release\Portal.csprojAssemblyReference.cache

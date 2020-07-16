@@ -87,7 +87,7 @@ namespace Portal.PortalForm
 
             this.Show();
 
-            if (mailDestinationForm.MailInfoList.Count > 1)
+            if (mailDestinationForm.MailInfoList.Count > 0)
             {
                 //宛先フォームで選択した宛先を、メール作成フォームのフィールドに設定
                 this.MailInfoList = mailDestinationForm.MailInfoList; 
